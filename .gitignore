@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.vite/
+
+**/bin/
+**/obj/
+
+.env
+.env.*
+!.env.example
+
+.vscode/
+.vs/
